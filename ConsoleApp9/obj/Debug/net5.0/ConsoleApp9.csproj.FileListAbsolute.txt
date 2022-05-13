@@ -1,0 +1,16 @@
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.exe
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.deps.json
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.runtimeconfig.json
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.dll
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\bin\Debug\net5.0\ConsoleApp9.pdb
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.dll
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\refint\ConsoleApp9.dll
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.pdb
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ConsoleApp9.genruntimeconfig.cache
+C:\Users\alesh\OneDrive\Desktop\repo\VitalyaTasks\ConsoleApp9\obj\Debug\net5.0\ref\ConsoleApp9.dll
